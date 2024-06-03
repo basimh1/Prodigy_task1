@@ -1,2 +1,2 @@
 # Prodigy_task1
-Prodigy tasks
+Prodigy task 1
